@@ -2,7 +2,7 @@ import json
 from difflib import get_close_matches
 
 
-data = json.load(open("dictionary_compact.json"))
+data = json.load(open("dictionary compact.json"))
 
 try_again = True
 
